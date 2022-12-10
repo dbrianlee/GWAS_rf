@@ -1,2 +1,2 @@
-# The pool of tears
+# Introduction to GWAS, Ancestry, and Local Ancestry Inference
 

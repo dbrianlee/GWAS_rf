@@ -6,5 +6,7 @@ site: bookdown::bookdown_site
 
 # Welcome to our digital artifact!
 
-This bookdown document serves as an extension of our presentation which covered the basics of GWAS, Local Ancestry Inference, Decision Trees and Random Forests, and our small case study. Here, we will discuss these topics in greater detail. will this edit show up!!!
+This bookdown document serves as an extension of our presentation which covered the basics of GWAS, Local Ancestry Inference, Decision Trees and Random Forests, and our small case study. Here, we will discuss these topics in greater detail.
+[PROVIDE ROAD MAP OF THE DIGITAL ARTIFACT: logic of chapter order, etc.]
+
 

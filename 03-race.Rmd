@@ -1,1 +1,5 @@
-# A caucus-race and a long tale
+# Motivations
+
+- Why should we care? Discussing ancestry as a confounding variable, cons of decision trees (overfitting and greediness). 
+- Why did we choose to focus on random forests
+- transition into next chapter -- What if we could use many of these weak predictive algorithms to create a more robust one?
