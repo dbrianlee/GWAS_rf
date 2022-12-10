@@ -1,5 +1,7 @@
-# Motivations
+# The building blocks of Random Forests: Classification Decision Trees
 
-- Why should we care? Discussing ancestry as a confounding variable, cons of decision trees (overfitting and greediness). 
-- Why did we choose to focus on random forests
+- introduce decision trees: root node, decision nodes, leaf nodes
+- pros (intuitive, easy to follow) & cons of decision trees (overfitting and greediness). 
+- explanation of greediness and the bias-variance tradeoff
+- pruned vs. unpruned trees
 - transition into next chapter -- What if we could use many of these weak predictive algorithms to create a more robust one?
