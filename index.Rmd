@@ -1,11 +1,10 @@
 --- 
 title: "Random Forests and Local Ancestry Inference"
 author: "Brian Lee, Erik Hager"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-This is our digital artifact. This bookdown document serves as an extension of our presentation which covered the basics of Local Ancestry Inference, Random Forests, and our small case study. Here, we will discuss these topics in greater detail. 
+# Welcome to our digital artifact!
 
-# Introduction to GWAS
+This bookdown document serves as an extension of our presentation which covered the basics of GWAS, Local Ancestry Inference, Decision Trees and Random Forests, and our small case study. Here, we will discuss these topics in greater detail. 
 
