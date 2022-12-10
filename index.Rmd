@@ -1,9 +1,11 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Random Forests and Local Ancestry Inference"
+author: "Brian Lee, Erik Hager"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+This is our digital artifact. This bookdown document serves as an extension of our presentation which covered the basics of Local Ancestry Inference, Random Forests, and our small case study. Here, we will discuss these topics in greater detail. 
+
+# Introduction to GWAS
 
