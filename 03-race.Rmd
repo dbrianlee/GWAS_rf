@@ -2,6 +2,5 @@
 
 - introduce decision trees: root node, decision nodes, leaf nodes
 - pros (intuitive, easy to follow) & cons of decision trees (overfitting and greediness). 
-- explanation of greediness and the bias-variance tradeoff
-- pruned vs. unpruned trees
+- pruned vs unpruned trees, transition into greediness and the bias-variance tradeoff
 - transition into next chapter -- What if we could use many of these weak predictive algorithms to create a more robust one?
