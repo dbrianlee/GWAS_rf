@@ -1,4 +1,4 @@
-# The building blocks of Random Forests: Classification Decision Trees
+# Classification Decision Trees: The building blocks of Random Forests
 
 - introduce decision trees: root node, decision nodes, leaf nodes
 - pros (intuitive, easy to follow) & cons of decision trees (overfitting and greediness). 
