@@ -7,3 +7,5 @@ classification-decision-trees-the-building-blocks-of-random-forests
 ensemble-learning-methods
 connecting-the-dots-random-forests
 applications-of-random-forests-in-local-ancestry-inference
+introduction
+classification-tree-example
