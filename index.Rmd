@@ -8,6 +8,6 @@ site: bookdown::bookdown_site
 
 This bookdown document serves as an extension of our presentation which covered the basics of GWAS, Local Ancestry Inference, Decision Trees and Random Forests, and our small case study. Here, we will discuss these topics in greater detail.
 
-Through starting with some basic genetics, an introduction of genome wide association studies and local ancestry inference, we plan to discuss our intentions and motivations in Chapter 2. In Chapter 3, we discuss the building blocks of random forests -- trees. Subsequently, building off of this discussion, we delve into bootstrap aggregation (bagging) and random forest. In our final section, we hope to unify our digital artifact by applying the material discussed in previous chapters to local ancestry inference.
+Through starting with some basic genetics, an introduction of genome wide association studies and local ancestry inference, we plan to discuss our intentions and motivations in Chapter 2. In Chapter 3, we discuss the building blocks of random forests -- trees. Subsequently, building off of this discussion, we delve into bootstrap aggregation (bagging) and random forest. In our final section, we hope to unify our digital artifact by applying the material discussed in previous chapters to local ancestry ancestry inference
 
 
