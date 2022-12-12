@@ -11,3 +11,4 @@ introduction
 classification-tree-example
 bagging-and-random-forests
 ensemble-learning-methods-bagging
+random-forests
