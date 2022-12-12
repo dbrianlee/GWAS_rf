@@ -1,5 +1,8 @@
 welcome-to-our-digital-artifact
 introduction-to-gwas-ancestry-and-local-ancestry-inference
+basic-genetics
+gwas-and-why-ancestry-matters
+project-motivations-local-ancestry-inference
 classification-decision-trees-the-building-blocks-of-random-forests
 ensemble-learning-methods
 connecting-the-dots-random-forests
