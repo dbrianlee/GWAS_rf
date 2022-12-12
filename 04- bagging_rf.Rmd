@@ -1,5 +1,0 @@
-# Ensemble Learning Methods
-
-- Bagging and Boosting
-- hone in on bagging, explain rationale for bagging
-- What is bootstrapping?

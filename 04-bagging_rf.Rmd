@@ -1,0 +1,15 @@
+# Bagging and Random Forests
+
+## Ensemble Learning Methods: Bagging
+
+We can mitigate the flaws of a decision tree by aggregating the results of a bunch of trees to narrow in on a decision that is globally optimal. This is essentially the idea behind ensemble learners. There are two main types of ensemble learners, but for the purposes of our project, we will be focusing on bagging, or *Bootstrap AGGregatING.*
+
+<center>
+
+![Figure 7: The idea of bootstrapping demonstrated. Image sourced from: https://online.stat.psu.edu/stat555/node/119/](/Users/brianlee/Dropbox/My Mac (Brian’s MacBook Pro)/Desktop/2022 FALL/STAT 494/GWAS_rf/figures/fig7.png)
+
+</center>
+
+
+As shown in figure 7, Bagging is an ensemble learning technique which helps improve the performance and accuracy of machine learning algorithms by employing a resampling technique known as bootstrapping. From our true population, we take a sample as an estimation of our population of interest. From there, rather than collecting many new samples from the population, we can randomly sample multiple subsets of our collected data to simulate the collection of multiple new samples from the population of interest. Through this process, we can build a model which produces results more similar to the true sampling distribution. Now, extending this idea, we can produce multiple weak, unpruned learners for each bootstrapped sample, combining the predictions made by each of these results to create a more powerful algorithm. 
+
