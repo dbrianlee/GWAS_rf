@@ -117,7 +117,7 @@
 <center>
 <div class="figure">
 <img src="figures/fig9.png" alt="" />
-<p class="caption">Figure 9: This image depicts how genetic data with known ancestry is organized, as well as how decision trees are used for classifying these ancestries.</p>
+<p class="caption">Figure 9: This image depicts how genetic data with known ancestry is organized, as well as how decision trees are used for classifying these ancestries. Figure created by Freddy Barragan</p>
 </div>
 </center>
 <p>In order to demonstrate the algorithm in action, we constructed a toy dataset intended to represent one window of the genome of 1,000 individuals from two different ancestry populations, with 500 observations assigned to each group. To constitute our window, we used the rbinom() function in RStudio to generate MAFs of 0 or 1 for 4 SNPs of interest and 26 noise SNPs, comprising a total of 30 variables. The SNPs of interest contained MAFs generated from different rbinom() frequencies for people in each of our two populations, with the intention of these being important predictors for a decision tree classifying the populations to split on. The noise SNPs were generated using the same rbinom() frequency for all 1,000 observations, with the intention of these being variables that would hurt the accuracy of a tree forced to split on only a random subset of predictors.</p>

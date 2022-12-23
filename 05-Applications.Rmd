@@ -4,7 +4,7 @@ The random forest algorithm can be applied to genetic data to infer local ancest
 
 <center>
 
-![Figure 9: This image depicts how genetic data with known ancestry is organized, as well as how decision trees are used for classifying these ancestries.](/Users/brianlee/Dropbox/My Mac (Brian’s MacBook Pro)/Desktop/2022 FALL/STAT 494/GWAS_rf/figures/fig9.png)
+![Figure 9: This image depicts how genetic data with known ancestry is organized, as well as how decision trees are used for classifying these ancestries. Figure created by Freddy Barragan](/Users/brianlee/Dropbox/My Mac (Brian’s MacBook Pro)/Desktop/2022 FALL/STAT 494/GWAS_rf/figures/fig9.png)
 
 </center>
 
